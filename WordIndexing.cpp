@@ -1,9 +1,3 @@
-//File : main.cpp
-//Desc : This starts the program to execute
-//Date : 10 Jan 2015
-//author : Kripal Thakur
-
-
 #include "SyncQueue.h"
 #include "WorkerThread.h"
 #include "SearchThread.h"
