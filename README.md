@@ -19,3 +19,7 @@ This project is implemented in such a way that the number of worker threads can 
 
 
 This is the result 
+
+For future development following things will be done:
+1.Add the word to the sql table to increase the score of word count and reading of files
+
