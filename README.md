@@ -1,6 +1,8 @@
 # WordIndexing
 
-![Screenshot](https://example.com/your-screenshot.png)
+![image](https://github.com/raaz252/WordIndexing/assets/63297432/16cffaa5-90b5-4f1a-b54c-4dfb09f94a81)
+
+
 
 ## Overview
 
@@ -32,7 +34,7 @@ For future development, the project plans to include the following features:
 
 ## Project Screenshot
 
-![Project Screenshot](https://example.com/your-project-screenshot.png)
+![Screenshot 2023-06-22 222557](https://github.com/raaz252/WordIndexing/assets/63297432/885b7c36-eaa7-4174-bdc0-df84bc79b49a)
 
 ---
 
